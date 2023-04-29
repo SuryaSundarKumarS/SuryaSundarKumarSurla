@@ -3,7 +3,7 @@
 # Hello! 👋
 
 # 💫 About Me:
-I'm currently working on CodeBasics Resume Project<br>I'm Graduated from Sagi Rama Krishnam Raju Engineering College(Mechanical-2022)<br>I'm open to work<br>I'm currently learning DataScience<br>Ask me about Analysis Stuff<br>
+I'm currently working on CodeBasics Resume Project<br>I'm Graduated from Sagi Rama Krishnam Raju Engineering College(Mechanical-2022)<br>I have completed Data Science Bootcamp<br>I'm currently oppen to work<br>Ask me about Analysis Stuff<br>
 
 
 ## 🌐 Socials:
