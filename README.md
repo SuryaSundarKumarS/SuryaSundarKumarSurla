@@ -18,7 +18,7 @@ I'm passionate about diving deep into data and extracting insights that can driv
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-sundar-kumar-surla-54048b188)[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/suryasundarkumar)[![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/suryasundarkuma1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-sundar-kumar-surla-54048b188)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/suryasundarkumar)  [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/suryasundarkuma1)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
