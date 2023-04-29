@@ -18,10 +18,6 @@ I'm currently working on CodeBasics Resume Project<br>I'm Graduated from Sagi Ra
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuryaSundarKumarS&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSundarKumarS&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSundarKumarS&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SuryaSundarKumarS&icon=0&color=0)](https://visitcount.itsvg.in)
