@@ -1,6 +1,6 @@
 <p  align="center"><img src = "suryasundarkumars@gmail.com.gif"></p>
 
-# Hello! 👋
+# Hello, I am Surya! 👋
 
 # 💫 About Me:
 I'm currently working on CodeBasics Resume Project<br>I'm Graduated from Sagi Rama Krishnam Raju Engineering College(Mechanical-2022)<br>I have completed Data Science Bootcamp<br>I'm currently oppen to work<br>Ask me about Analysis Stuff<br>
