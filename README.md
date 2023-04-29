@@ -3,11 +3,9 @@
 # Welcome to my GitHub profile!, I am Surya! 👋
 
 # 💫 About Me:
-I'm currently working on CodeBasics Resume Project<br>I'm Graduated from Sagi Rama Krishnam Raju Engineering College(Mechanical-2022)<br>I have completed Data Science Bootcamp<br>I'm currently oppen to work<br>Ask me about Analysis Stuff<br>
-
 - Currently working on the CodeBasics Resume Project
 - Graduated from Sagi Rama Krishnam Raju Engineering College with a degree in Mechanical Engineering in 2022
-- Completed a Data Science Bootcamp
+- Completed a Data Science Bootcamp from Odin School
 - Currently open to work on exciting data science projects
 
 If you're interested in analysis stuff, feel free to ask me anything! I have experience with:
@@ -34,5 +32,3 @@ I'm passionate about diving deep into data and extracting insights that can driv
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SuryaSundarKumarS&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
