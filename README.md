@@ -1,3 +1,7 @@
+<p  align="center"><img src = "suryasundarkumars@gmail.com.gif"></p>
+
+# Hello! 👋
+
 # 💫 About Me:
 I'm currently working on CodeBasics Resume Project<br>I'm looking to collaborate on Data Analysis<br>I'm looking for help with Visualization<br>I'm currently learning DataScience<br>Ask me about Analysis Stuff<br>Fun fact
 
