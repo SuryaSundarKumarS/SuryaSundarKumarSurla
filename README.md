@@ -11,8 +11,8 @@
 If you're interested in analysis stuff, feel free to ask me anything! I have experience with:
 
 - Statistical analysis
-- Machine learning
 - Data visualization
+- Programming
 
 I'm passionate about diving deep into data and extracting insights that can drive decision-making. Thanks for visiting my profile, and don't hesitate to reach out if you have any questions or just want to say hi!
 
