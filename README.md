@@ -3,7 +3,7 @@
 # Welcome to my GitHub profile!, I am Surya! 👋
 
 # 💫 About Me:
-- Currently working on the PWC Virtual Internship Project
+- Worked as a Business Analytics intern at The Sparks Foundation
 - Graduated from Sagi Rama Krishnam Raju Engineering College with a degree in Mechanical Engineering in 2022
 - Completed a Data Science Bootcamp from Odin School
 - Currently open to work on exciting data science projects
