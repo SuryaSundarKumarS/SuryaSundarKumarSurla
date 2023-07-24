@@ -1,4 +1,4 @@
-<p  align="center"><img src = "suryasundarkumars@gmail.com.gif"></p>
+<p  align="center"><img src = "Github Banner.gif"></p>
 
 # Welcome to my GitHub profile!, I am Surya! 👋
 
