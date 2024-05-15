@@ -3,10 +3,9 @@
 # Welcome to my GitHub profile!, I am Surya! 👋
 
 # 💫 About Me:
-- Worked as a Business Analytics intern at The Sparks Foundation
+- Working as Front-end BI Developer at Lingaro India Pvt Ltd
 - Graduated from Sagi Rama Krishnam Raju Engineering College with a degree in Mechanical Engineering in 2022
-- Completed a Data Science Bootcamp from Odin School
-- Currently open to work on exciting data science projects
+- Currently open to work on exciting power bi & data science projects
 
 If you're interested in analysis stuff, feel free to ask me anything! I have experience with:
 
@@ -18,7 +17,7 @@ I'm passionate about diving deep into data and extracting insights that can driv
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-sundar-kumar-surla-54048b188/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/suryasundarkumar)  [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/suryasundarkuma1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryasundarkumarsurla/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/suryasundarkumar)  [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/suryasundarkuma1)
 
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
